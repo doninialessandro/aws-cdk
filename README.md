@@ -12,7 +12,7 @@ Once you have deployed your service, be sure to to set the right address in you 
 
 ## Useful commands 
 
-> :warning: **IMPORTANT**: Run the followin commands from backend folder
+> :warning: **IMPORTANT**: Run the following commands from backend folder
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
