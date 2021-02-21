@@ -1,7 +1,6 @@
 This is a simple serverless application built with [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) using Typescript.
 
-> :warning: **This is a learning project**, some best practices are out of scope
-> and the payment function works in test mode.
+> :warning: **This is a learning project**, some best practices are out of scope.
 
 ## Prerequisites
 
